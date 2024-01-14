@@ -1,0 +1,25 @@
+# Dependencias
+node_modules/
+
+# Archivos de construcción
+dist/
+build/
+
+# Archivos de configuración
+.env
+config.js
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos de respaldo
+*.bak
+*.swp
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Carpeta de salida para Visual Studio Code
+.vscode/
